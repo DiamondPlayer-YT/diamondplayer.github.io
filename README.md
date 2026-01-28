@@ -1,2 +1,2 @@
-# diamondplayer.github.io
+# Pyro Launcher
 Repo for diamondplayer.gituhb.io
